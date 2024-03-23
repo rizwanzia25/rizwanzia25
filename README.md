@@ -1,6 +1,6 @@
 [![MasterHead]( https://upload.wikimedia.org/wikipedia/commons/f/fc/Genetic_programming_example.gif)](https://techyceo.com/)
 
-<h1 align="center">Hi 👋, I'm rizwanzia25</h1>
+<h1 align="center">Hi 👋, I'm Rizwan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTExODU0NjksIm5iZiI6MTcxMTE4NTE2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzIzVDA5MTI0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVjNjdkNDVhNDVmMzI4NTJjYjJhMGYyMDczYzhmZWUxZmM3YTJlZmE0NTI0Njc1NGU0ZDAyZWQ3ODQ5NzMxOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D66lK52ulLMV6a01NA8uMHhG0ys4CGokiAt705d_jJ8">
